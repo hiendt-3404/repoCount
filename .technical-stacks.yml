@@ -1,3 +1,4 @@
 techstack:
   application:
     - html:1.0.0
+    - css:1.0.0
